@@ -1,0 +1,17 @@
+WiFi Network: HomeNet_5G
+WiFi Password: Sunflower2024!
+
+Netflix account: family@email.com
+Netflix password: Movies4Us
+
+Car insurance renewal: March 15, 2025
+Insurance provider: Pacific Shield
+Policy number: PSH-4492817
+
+Fridge warranty expires: December 2026
+Model: Samsung RF28T5001SR
+Purchase receipt: Best Buy, December 2023
+
+Plumber emergency contact: Mike's Plumbing, 604-555-0192
+Electrician: Bright Spark Electric, 604-555-0381
+EOF
